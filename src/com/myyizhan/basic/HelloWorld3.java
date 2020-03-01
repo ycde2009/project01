@@ -30,6 +30,7 @@ public class HelloWorld3 {
 
         String[] name = new String[]{"张三", "李四", "王五"};
         String[] name2 = new String[]{"张三", "李四", "王五"};
+        System.out.println("name2 = " + name2);
 
         List<String> list1 = new ArrayList<String>();
         if (list1 == null) {
